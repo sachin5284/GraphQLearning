@@ -1,0 +1,4 @@
+{"Timestamp":"2019-05-13T14:47:24.9847358+05:30","Level":"Debug","MessageTemplate":"Reusing {A} by {B}","Properties":{"A":"string","B":true}}
+{"Timestamp":"2019-05-13T14:49:32.8294474+05:30","Level":"Debug","MessageTemplate":"Reusing {A} by {B}","Properties":{"A":"string","B":true}}
+{"Timestamp":"2019-05-14T14:18:37.6988127+05:30","Level":"Debug","MessageTemplate":"Reusing {A} by {B}","Properties":{"A":"string","B":true}}
+{"Timestamp":"2019-05-16T16:58:43.3930969+05:30","Level":"Debug","MessageTemplate":"Reusing {A} by {B}","Properties":{"A":"string","B":true}}

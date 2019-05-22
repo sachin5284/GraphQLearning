@@ -1,0 +1,11 @@
+D:\BitBucket\GraphQl\Serilogs\SerilogSample\SerilogSample\bin\Debug\netcoreapp2.2\SerilogSample.deps.json
+D:\BitBucket\GraphQl\Serilogs\SerilogSample\SerilogSample\bin\Debug\netcoreapp2.2\SerilogSample.dll
+D:\BitBucket\GraphQl\Serilogs\SerilogSample\SerilogSample\bin\Debug\netcoreapp2.2\SerilogSample.pdb
+D:\BitBucket\GraphQl\Serilogs\SerilogSample\SerilogSample\obj\Debug\netcoreapp2.2\SerilogSample.csprojAssemblyReference.cache
+D:\BitBucket\GraphQl\Serilogs\SerilogSample\SerilogSample\obj\Debug\netcoreapp2.2\SerilogSample.csproj.CoreCompileInputs.cache
+D:\BitBucket\GraphQl\Serilogs\SerilogSample\SerilogSample\obj\Debug\netcoreapp2.2\SerilogSample.AssemblyInfoInputs.cache
+D:\BitBucket\GraphQl\Serilogs\SerilogSample\SerilogSample\obj\Debug\netcoreapp2.2\SerilogSample.AssemblyInfo.cs
+D:\BitBucket\GraphQl\Serilogs\SerilogSample\SerilogSample\obj\Debug\netcoreapp2.2\SerilogSample.dll
+D:\BitBucket\GraphQl\Serilogs\SerilogSample\SerilogSample\obj\Debug\netcoreapp2.2\SerilogSample.pdb
+D:\BitBucket\GraphQl\Serilogs\SerilogSample\SerilogSample\bin\Debug\netcoreapp2.2\SerilogSample.runtimeconfig.json
+D:\BitBucket\GraphQl\Serilogs\SerilogSample\SerilogSample\bin\Debug\netcoreapp2.2\SerilogSample.runtimeconfig.dev.json
